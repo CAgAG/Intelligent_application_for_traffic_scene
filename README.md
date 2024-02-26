@@ -1,8 +1,6 @@
 # 基于计算机视觉的交通场景智能应用 
 第九届中国软件杯大赛-A组赛题, 对公共交通路口摄像头类似视角的交通场景进行检测识别
 
-# Intelligent-application-of-traffic-monitoring-scene
-
 ## 1. 运行所需环境、相关库，以及配置
 
 1. Python版本要求：3.7

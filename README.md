@@ -36,3 +36,5 @@ python GUI.py
 - LicensePlate: 车牌识别
 - theyolo: 目标检测算法
 - Utils: 车道线、车速等检测识别方法的工具函数
+
+[source](https://github.com/diadestiny/Android_Course_Design)

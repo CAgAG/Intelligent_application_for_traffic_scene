@@ -36,4 +36,4 @@ python GUI.py
 - theyolo: 目标检测算法
 - Utils: 车道线、车速等检测识别方法的工具函数
 
-[source](https://github.com/diadestiny/Intelligent-application-of-traffic-monitoring-scene)
+<!-- [source](https://github.com/diadestiny/Intelligent-application-of-traffic-monitoring-scene) -->

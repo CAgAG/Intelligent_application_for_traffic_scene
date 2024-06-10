@@ -30,7 +30,7 @@ python GUI.py
 
 ![4](./show_images/4.png)
 
-## 主要文件夹说明
+## 4. 主要文件夹说明
 - Classification: 识别红绿灯的分类网络
 - LicensePlate: 车牌识别
 - theyolo: 目标检测算法
